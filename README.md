@@ -1,7 +1,7 @@
 ## Terminus
 离银河中心最远的行星。
 
-GitHub：<https://github.com/Terminus2049/Terminus2049.github.io>
+GitHub：<https://github.com/Terminus49/Terminus49.github.io>
 
 本仓库存放被删文章，博客模版请前往 [terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)
 
@@ -19,7 +19,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 ### 如何帮助整理 404 文章
 
-详见置顶文章 [如何参与端点星计划](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2018-04-01-how-to-participate-in-terminus.md)
+详见置顶文章 [如何参与端点星计划](_posts/2018-04-01-how-to-participate-in-terminus.md)
 
 ## 镜像网站
 
@@ -37,8 +37,8 @@ gem install bundler jekyll
 gem install jekyll-paginate
 gem install jekyll-seo-tag
 gem install jekyll-sitemap
-git clone --depth=1 https://github.com/Terminus2049/Terminus2049.github.io.git
-cd terminus2049.github.io
+git clone --depth=1 https://github.com/Terminus49/Terminus49.github.io.git
+cd terminus49.github.io
 jekyll serve
 ```
 
@@ -63,11 +63,11 @@ Chrome 扩展 [reader-mode](https://github.com/fictionalwinner/reader-mode)
 
 @TerminusBot @cmmei @b614103080 @ShuttleDDD @IchiroArisugawa @scisheiko @Jephen @p-library @Kurocoppla @Tsai1993 @billy3321 @DarioMeeker @wisdomlover @fictionalwinner @idealclover @Mabbs
 
-特别致谢 [IchiroArisugawa](https://github.com/IchiroArisugawa) 设计的好看 [LOGO](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/images)。
+特别致谢 [IchiroArisugawa](https://github.com/IchiroArisugawa) 设计的好看 [LOGO](images)。
 
 特别致谢 [fictionalwinner](https://github.com/fictionalwinner) 专门为端点星开发的 Chrome 扩展 [reader-mode](https://github.com/fictionalwinner/reader-mode)。
 
-具体贡献可在 [这里](https://github.com/Info-cn/Terminus/graphs/contributors) 和 [这里](https://github.com/Terminus2049/Terminus2049.github.io/graphs/contributors) 查看。
+具体贡献可在 [这里](https://github.com/Info-cn/Terminus/graphs/contributors) 、[这里](https://github.com/Terminus2049/Terminus2049.github.io/graphs/contributors) 和 [这里](https://github.com/Terminus49/Terminus49.github.io/graphs/contributors) 查看。
 
 ## 版权
 
@@ -77,4 +77,4 @@ Chrome 扩展 [reader-mode](https://github.com/fictionalwinner/reader-mode)
 
 ### 文章版权
 
-[_posts](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Terminus2049/Terminus2049.github.io/issues)，我们将在第一时间予以删除。
+[_posts](_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Terminus49/Terminus49.github.io/issues)，我们将在第一时间予以删除。
