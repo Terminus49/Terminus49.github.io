@@ -1,11 +1,8 @@
-## Terminus
-离银河中心最远的行星。
+## Terminus49
+
+端点星计划接力（[原项目维护者两人被监视居住](https://github.com/Terminus2049/Terminus2049.github.io/issues/597)）
 
 GitHub：<https://github.com/Terminus49/Terminus49.github.io>
-
-本仓库存放被删文章，博客模版请前往 [terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)
-
-反馈请前往 <https://2049bbs.xyz>
 
 ## 端点星计划是什么
 
